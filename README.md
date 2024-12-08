@@ -11,7 +11,7 @@
 
 小苹果影视：搭配1.0.6版以上使用
 
-12月7日11:47：优化1.0.8版本 支持电视直播，在设置中添加m3u、txt直播源。下面是2个例子源，其他直播源请自行在github里搜索。
+12月7日：更新1.0.8版本 支持电视直播，在设置中添加m3u直播源。下面是2个例子源，其他m3u直播源请自行在github里搜索。
 
 ------------------------------------------------------
 该源大部分频道需要ipv6访问
@@ -32,9 +32,9 @@ User-Agent: okHttp
 ------------------------------------------------
 
 # 请务必转存到自己的仓库使用
-ios端配置（支持嗅探）：https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/配置.json
+ios端配置（支持嗅探）：https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/配置.json
 
-安卓端配置（不支持嗅探）：https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/安卓配置.json
+安卓端配置（不支持嗅探）：https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/安卓配置.json
 ## 关于tBox后续维护的说明
 
 tBox是一款免费APP，主要功能是嗅探网页视频播放，并提供友好的规则编写体验。
@@ -43,7 +43,7 @@ tBox是一款免费APP，主要功能是嗅探网页视频播放，并提供友�
 
 * 在发布第一个版本时，我已在GitHub明确提醒大家务必自行转存配置和软件，我不会对配置进行特别维护。而且从头到尾无任何广告、无任何收费，何来跑路一说？
 * 尽管如此，考虑到部分用户的喜爱，我还是重新维护了配置并上传，以方便大家转存。
-* 再次提醒，配置请自行转存，软件本身无任何后门、无任何远程开关。（不定期删除规则,喜欢的朋友请在我主页 https://github.com/tt9912 直接Follow，以免迷路。）
+* 再次提醒，配置请自行转存，软件本身无任何后门、无任何远程开关。（不定期删除规则,喜欢的朋友请在我主页 https://github.com/leevi0709 直接Follow，以免迷路。）
 
 **关于tBox的更新：**
 
